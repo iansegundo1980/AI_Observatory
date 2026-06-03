@@ -1,7 +1,8 @@
 # Tygodniowy przeglad AI - 2026-06-03
 
-**Data sporządzenia:** 3 czerwca 2026 r.  
-**Zakres:** najważniejsze wydarzenia z okresu ok. 27 maja - 3 czerwca 2026 r.  
+**Data sporządzenia:** 3 czerwca 2026 r.
+
+**Zakres:** najważniejsze wydarzenia z okresu ok. 27 maja - 3 czerwca 2026 r.
 **Uwaga metodologiczna:** priorytetowo potraktowano źródła pierwotne (komunikaty firm, sądów, ustawodawców i instytucji publicznych), a przy doniesieniach medialnych wskazano, czy opisują one pilotaż, propozycję regulacyjną czy obowiązującą zmianę.
 
 ## 1. Ogólne przełomy i nowe modele AI o istotnym znaczeniu
