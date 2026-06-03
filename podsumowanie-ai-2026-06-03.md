@@ -1,4 +1,4 @@
-# Tygodniowy przeglad AI - 2026-06-03
+# Tygodniowy przegląd AI - 2026-06-03
 
 **Data sporządzenia:** 3 czerwca 2026 r.
 
