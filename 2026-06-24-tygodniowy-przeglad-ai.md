@@ -1,6 +1,6 @@
 # Tygodniowy przeglad AI - 2026-06-24
 
-**Zakres raportu:** wydarzenia i komunikaty z okresu ok. 17-24 czerwca 2026 r. (UTC), z krotkim kontekstem dla inicjatyw, ktore weszly w zycie lub byly istotnie komentowane w tym tygodniu.  
+**Zakres raportu:** wydarzenia i komunikaty z okresu ok. 17-24 czerwca 2026 r. (UTC), z krotkim kontekstem dla inicjatyw, ktore weszly w zycie lub byly istotnie komentowane w tym tygodniu.
 **Tematy przewodnie:** szybkie przesuniecie od chatbotow do agentow zdolnych do dlugich zadan, coraz bardziej specjalistyczne modele dla cyberbezpieczenstwa i dokumentow, oraz wyrazne zaciesnianie zasad uzywania AI w sadach.
 
 ## 1. Ogolne przelomy i nowe modele AI o istotnym znaczeniu
